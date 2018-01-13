@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Password_Cracker_Dictionary_Attack_Recovering_SHA256_Hashed_Passwords_With_Salt/.idea/Getting_Started.iml" filepath="$PROJECT_DIR$/../Password_Cracker_Dictionary_Attack_Recovering_SHA256_Hashed_Passwords_With_Salt/.idea/Getting_Started.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Getting_Started/.idea/Getting_Started.iml" filepath="$PROJECT_DIR$/../Getting_Started/.idea/Getting_Started.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Password_Cracker.iml" filepath="$PROJECT_DIR$/.idea/Password_Cracker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Password_Cracker_Recovering_Plaintext_Passwords/.idea/Password_Cracker_Recovering_Plaintext_Passwords.iml" filepath="$PROJECT_DIR$/../Password_Cracker_Recovering_Plaintext_Passwords/.idea/Password_Cracker_Recovering_Plaintext_Passwords.iml" />
+    </modules>
+  </component>
+</project>
