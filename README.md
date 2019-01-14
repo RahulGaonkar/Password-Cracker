@@ -1,5 +1,5 @@
-# Password-Cracker
-Password cracker is an system which can be used by penetration testers and network auditors to identify weak passwords
+# Password Cracker
+Password cracker is a system to crack and identify weak plaintext passwords, SHA-1 hashed passwords and SHA-256 hashed salted passwords
 ## Synopsis
 Designed a Password cracker to crack plaintext passwords, SHA-1 hashed passwords and SHA-256 hashed passwords containing salt with the help of dictionary and brute force attacks by creating custom wordlist as well as using available wordlist
 ## How to Use
